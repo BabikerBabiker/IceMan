@@ -3,7 +3,3 @@
 
 // Students:  Add code to this file (if you wish), Actor.h, StudentWorld.h, and StudentWorld.cpp
 using namespace std;
-
-Actor::Actor(int r, int c) {
-
-}

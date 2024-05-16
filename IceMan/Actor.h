@@ -14,9 +14,9 @@ public:
 	Actor(int r, int c);
 
 	//Accessors
-	int row() const;
-	int col() const;
-	bool isActive() const;
+	virtual int row() const;
+	virtual int col() const;
+	virtual bool isActive() const;
 
 };
 
