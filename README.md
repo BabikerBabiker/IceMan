@@ -20,3 +20,6 @@ Iceman is a game developed as part of an advanced C++ class to refine object-ori
 
 - **Protester AI**: Protesters are not fully implemented and do not move.
 - **Gold Interaction**: Protesters cannot pick up gold.
+
+
+[View the PDF](IceMan.pdf)
