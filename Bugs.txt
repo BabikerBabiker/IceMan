@@ -1,0 +1,5 @@
+BUGS
+------------------
+-   Oil despawns after spawning
+	* check Barrel::doSomething()
+

@@ -1,0 +1,10 @@
+ToDo
+----------
+- Implement text with information at the top of the screen in studentworld.h
+	- write function to get each stat and call another function to format it nicely following the guidelines on page 22.
+- Implement protestors in StudentWorld.cpp
+	- Check actor.h for correct information
+- Implement gold spawn in StudentWorld.cpp
+	- Check actor.h for correct information
+- Implement IceMan sonar in StudentWorld.cpp
+	- Check actor.h for correct information
