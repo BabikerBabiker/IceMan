@@ -1,2 +1,12 @@
-﻿  StudentWorld.cpp
-  IceMan.vcxproj -> C:\Users\bbabi\OneDrive\Documents\GitHub\Iceman\IceMan-skeleton-windows\IceMan-skeleton-windows\IceMan\Debug\IceMan.exe
+﻿  Actor.cpp
+C:\Users\bbabi\OneDrive\Documents\GitHub\IceMan-Project\IceMan Files\IceMan-skeleton-windows\IceMan\IceMan\Actor.cpp(242,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bbabi\OneDrive\Documents\GitHub\IceMan-Project\IceMan Files\IceMan-skeleton-windows\IceMan\IceMan\Actor.cpp(247,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bbabi\OneDrive\Documents\GitHub\IceMan-Project\IceMan Files\IceMan-skeleton-windows\IceMan\IceMan\Actor.cpp(260,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bbabi\OneDrive\Documents\GitHub\IceMan-Project\IceMan Files\IceMan-skeleton-windows\IceMan\IceMan\Actor.cpp(265,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  StudentWorld.cpp
+  GameController.cpp
+  GameWorld.cpp
+  main.cpp
+  Generating Code...
+  LINK : C:\Users\bbabi\OneDrive\Documents\GitHub\IceMan-Project\IceMan Files\IceMan-skeleton-windows\IceMan\Debug\IceMan.exe not found or not built by the last incremental link; performing full link
+  IceMan.vcxproj -> C:\Users\bbabi\OneDrive\Documents\GitHub\IceMan-Project\IceMan Files\IceMan-skeleton-windows\IceMan\Debug\IceMan.exe
